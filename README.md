@@ -21,7 +21,7 @@ The time table information such as day and start time, end time and intervals (1
 
 The information of which bus goes by which route and at what time is all stored together. The status of the bus (On Time, Delayed, or Cancelled) is recorded.
 
-#The Repository Contains the following parts for the project:
+# The Repository Contains the following parts for the project:
   1. The SQL File
   2. The Tabes creation Queries
   3. Some Complex Views created on Database
