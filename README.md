@@ -28,5 +28,6 @@ The information of which bus goes by which route and at what time is all stored 
   4. Some Complex Queries
   5. EER Schema for the System
   6. Relational Schema for the System
+  7. Triggers to add certain constraints
   
   
